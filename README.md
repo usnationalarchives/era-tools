@@ -11,4 +11,5 @@ ERA Tools are collection of tools that can be used for processing archival artif
 This repository contains the all ERA tools that can be run in the ERA 2.0 environment. In addition to being a catalog of tools, this repository allows other NARA projects and members of the public to make use of the  underlying code that is used in the various tools. The tools range from calculating fixity, extracting zip files, and identifying MIME types to name a few. 
 
 ## Getting started on a new ERA Tool
-To develop a new ERA tool, please refer to the ‘HelloWorld’ ERA tool project and follow the directions there.
+To develop a new ERA tool, please refer to an existing ERA tool project and use
+it as a starting point.
